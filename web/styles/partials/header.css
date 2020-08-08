@@ -49,6 +49,7 @@
 }
 
 @media (min-width: 700px) {
+    
   .page-header {
     height: 340px;
   }
